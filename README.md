@@ -54,10 +54,6 @@ I help developers solve problems in their code projects. Whether you're stuck on
 - Believe in choosing the right tool and going deep (hence: Fresh + Blade only)
 - Denmark-based, world-focused
 
-## 📊 GitHub Stats
-
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaDsEm88&show_icons=true&theme=radical)
-
 ---
 
 *"If an idea pops into my head, chances are I'll build it and ship it."*
