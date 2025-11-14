@@ -8,7 +8,7 @@ Former Personal Trainer turned Developer — proving that career pivots can lead
 
 **2017** → Started with no-code platforms ([Groove](https://groove.cm/), [Webflow](https://webflow.com/)) doing freelance tech support
 
-**2018-2019** → Took my first steps into coding — started small, learning React fundamentals
+**2018-2019** → Took my first steps into coding — started small, learning React, JavaScript & Typescript fundamentals
 
 **2019-2021** → Experimented with Svelte, Next.js, and explored the emerging SolidJS
 
@@ -44,13 +44,14 @@ I help developers solve problems in their code projects. Whether you're stuck on
 
 **📧 Contact:** support@qodin.xyz
 
-🌐 *Project issue submission site coming soon at qodin.xyz*
-
+🌐 *Project issue submission site coming soon at qodin.xyz*, with a brand new approach
+. 
 ## 🏋️ Fun Facts
 
 - Former Personal Trainer who traded dumbbells for debugging
 - Passionate about building real solutions, not just code
 - Believe in choosing the right tool and going deep
+- A natural sports geek
 - Denmark-based, world-focused
 
 ---
