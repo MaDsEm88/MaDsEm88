@@ -22,7 +22,7 @@ Former Personal Trainer turned Developer — proving that career pivots can lead
 
 ## 💻 Current Tech Stack
 
-**Frameworks:** [Fresh (Deno)](https://fresh.deno.dev/), [TanStack Start](https://tanstack.com/start/latest), and [Blade.im](https://blade.im/) — These are the **only** frameworks I use now
+**Frameworks:** [Fresh (Deno)](https://fresh.deno.dev/), [TanStack Start](https://tanstack.com/start/latest), and [Blade.im](https://blade.im/) 
 
 **Database Evolution:**
 - Started: [Pocketbase](https://pocketbase.io/), [SurrealDB](https://surrealdb.com/)
@@ -31,13 +31,12 @@ Former Personal Trainer turned Developer — proving that career pivots can lead
 
 ## 🎯 What I'm Building
 
-🔨 **2025 Q1** → Major project launch (stay tuned!)
+🔨 **2025 Q1-Q2** → Major project launch (stay tuned!)
 
 🔨 **2025 Q3-Q4** → Second project in development
 
 🔨 **2026** → Third project on the roadmap
 
-*I'm currently building two side projects with plans to scale them.*
 
 ## 🤝 Freelance & Support
 
@@ -51,11 +50,9 @@ I help developers solve problems in their code projects. Whether you're stuck on
 
 - Former Personal Trainer who traded dumbbells for debugging
 - Passionate about building real solutions, not just code
-- Believe in choosing the right tool and going deep (hence: Fresh + Blade only)
+- Believe in choosing the right tool and going deep
 - Denmark-based, world-focused
 
 ---
 
-*"If an idea pops into my head, chances are I'll build it and ship it."*
-
-💼 Open for freelance collaborations | 🚀 Currently shipping products | 💡 Always learning
+*"If an idea pops into my head, chances are I'll build it"*
