@@ -12,7 +12,7 @@ Former Personal Trainer turned Developer — proving that career pivots can lead
 
 **2019-2021** → Experimented with Svelte, Next.js, and explored the emerging SolidJS
 
-**2022-2023** → Discovered [Fresh](https://fresh.deno.dev/) by Deno — loved the zero-JS-by-default approach
+**2022-2023** → Discovered [Ultra](https://ultrajs.dev/) & [Fresh](https://fresh.deno.dev/) by Deno — loved the zero-JS-by-default approach
 
 **2024** → Explored various modern frameworks, keeping up with the evolving ecosystem
 
