@@ -20,9 +20,13 @@ Former Personal Trainer turned Developer — proving that career pivots can lead
 
 **2025** → Started using [Blade.im](https://blade.im/) framework — the cutting edge of React frameworks
 
+**2025** → Exploring [LynxJS](https://lynxjs.org/) for native mobile app development — ByteDance's breakthrough cross-platform framework
+
 ## 💻 Current Tech Stack
 
-**Frameworks:** [Fresh (Deno)](https://fresh.deno.dev/), [TanStack Start](https://tanstack.com/start/latest), and [Blade.im](https://blade.im/) 
+**Web Frameworks:** [Fresh (Deno)](https://fresh.deno.dev/), [TanStack Start](https://tanstack.com/start/latest), and [Blade.im](https://blade.im/) 
+
+**Mobile:** [LynxJS](https://lynxjs.org/) — Building truly native mobile apps with React and CSS
 
 **Database Evolution:**
 - Started: [Pocketbase](https://pocketbase.io/), [SurrealDB](https://surrealdb.com/)
