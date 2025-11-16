@@ -31,11 +31,11 @@ Former Personal Trainer turned Developer — proving that career pivots can lead
 
 ## 🎯 What I'm Building
 
-🔨 **2025 Q1-Q2** → Major project launch (stay tuned!)
+🔨 **2026 Q1-Q2** → Major project launch (stay tuned!)
 
-🔨 **2025 Q3-Q4** → Second project in development
+🔨 **2026 Q3-Q4** → Second project in development
 
-🔨 **2026** → Third project on the roadmap
+🔨 **2027** → Third project on the roadmap
 
 
 ## 🤝 Freelance & Support
